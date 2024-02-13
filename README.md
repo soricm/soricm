@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 - **Email:** [marijan.soric@etu.ec-lyon.fr](mailto:marijan.soric@etu.ec-lyon.fr)
 - **LinkedIn:** [Marijan Soric](https://www.linkedin.com/in/marijan-soric)
-- **Website/Portfolio:** [Marijan's Website](https://www.your-website.com)
+- **Website/Portfolio:** [Marijan's Website](https://soricm.github.io/portfolio/)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marijan SORIC) -->
 
 # 💻 Tech Stack:
