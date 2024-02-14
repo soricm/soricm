@@ -19,17 +19,28 @@
 
 Here are some of the projects I'm currently working on or have contributed to:
 
-- [PAi23](https://github.com/soricm/PAi23): FDIR. Unsupervised learning on flight detection: anomaly detection.
-- [CatMatch](https://github.com/soricm/CatMatch): Create a recommendation system *content based filtering* for the CatMatch app.
-- [School-Project](https://github.com/soricm/School-Project): Projects done at Centrale Lyon: Image Compression, Automatic Change, Hangman Game, Hotel Management, Website Listing the Bridges of the World.
-- [RealEstate](https://github.com/soricm/RealEstate): Supervised learning on real estate prices with a dataset from Institut Louis Bachelier.
+## LLM
+- [LLM-text-generation-work](https://github.com/soricm/LLM-text-generation-work): LLMs survey. Transformer architecture with BERT, GPT. Fine-tuning method (LoRA).
 - [LLM-based-App](https://github.com/soricm/LLM-based-App): Creation of an app based on open source LLM that includes: chatbot, document chat and summarizer.
-- [Time-Series-Forecasting-Solar-Energy-Production](https://github.com/soricm/Time-Series-Forecasting-Solar-Energy-Production): .
-- [LLM-text-generation-work](https://github.com/soricm/LLM-text-generation-work): .
-- [NTNU-ML-course](https://github.com/soricm/NTNU-ML-course): .
-- [TDT4265_StarterCode_2024](https://github.com/soricm/TDT4265_StarterCode_2024): .
 
-- 
+## Deep Learning
+- [TDT4265_StarterCode_2024](https://github.com/soricm/TDT4265_StarterCode_2024): Implementing multi-class classification with softmaxregression on the MNIST dataset. Exercices from Deep Learning Course at NTNU.
+
+## Supervised Learning
+- [RealEstate](https://github.com/soricm/RealEstate): Supervised learning on real estate prices with a dataset from Institut Louis Bachelier.
+- [NTNU-ML-course](https://github.com/soricm/NTNU-ML-course): Implementing Logistic Regression and K-means from scratch. Exercices from Machine Learning Course at NTNU.
+- [Time-Series-Forecasting-Solar-Energy-Production](https://github.com/soricm/Time-Series-Forecasting-Solar-Energy-Production): .
+
+## Unsupervised Learning
+- [PAi23](https://github.com/soricm/PAi23): FDIR. Unsupervised learning on flight detection: anomaly detection.
+
+## Recommendation System
+- [CatMatch](https://github.com/soricm/CatMatch): Create a recommendation system *content based filtering* for the CatMatch app.
+
+## Other Computer Science projects
+- [School-Project](https://github.com/soricm/School-Project): Projects done at Centrale Lyon: Image Compression, Automatic Change, Hangman Game, Hotel Management, Website Listing the Bridges of the World.
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=soricm&icon=0&color=0)](https://visitcount.itsvg.in)
 
