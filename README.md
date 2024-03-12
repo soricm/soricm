@@ -25,7 +25,10 @@ Here are some of the projects I'm currently working on or have contributed to:
 - [LLM-based-App](https://github.com/soricm/LLM-based-App): Creation of an app based on open source LLM that includes: chatbot, document chat and summarizer.
 
 ### 🤖 Deep Learning
-- [TDT4265_StarterCode_2024](https://github.com/soricm/TDT4265_StarterCode_2024): Implementing multi-class classification with softmaxregression on the MNIST dataset. Exercices from Deep Learning Course at NTNU.
+- [TDT4265_StarterCode_2024](https://github.com/soricm/TDT4265_StarterCode_2024): Exercices from Deep Learning Course at NTNU.
+  -  Softmaxregression on the MNIST dataset.
+  -  Multi-layer neural network on the MNIST dataset.
+  -  Implementing CNN to perform image classification of images in the CIFAR10 dataset.
 
 ### 👨🏻‍🏫 Supervised Learning
 - [RealEstate](https://github.com/soricm/RealEstate): Supervised learning on real estate prices with a dataset from Institut Louis Bachelier.
