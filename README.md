@@ -30,6 +30,9 @@ Here are some of the projects I'm currently working on or have contributed to:
   -  Multi-layer neural network on the MNIST dataset.
   -  Implementing CNN to perform image classification of images in the CIFAR10 dataset.
 
+### 🖼️ Image generation
+- [DiffusionModel](https://github.com/CogitoNTNU/DiffusionModel): Implement the architecture from the paper *Denoising Diffusion Probabilistic Models*. Car image generator.
+
 ### 👨🏻‍🏫 Supervised Learning
 - [RealEstate](https://github.com/soricm/RealEstate): Supervised learning on real estate prices with a dataset from Institut Louis Bachelier.
 - [NTNU-ML-course](https://github.com/soricm/NTNU-ML-course): Implementing Logistic Regression and K-means from scratch. Exercices from Machine Learning Course at NTNU.
