@@ -30,7 +30,7 @@ Here are some of the projects I'm currently working on or have contributed to:
   -  Multi-layer neural network on the MNIST dataset.
   -  Implementing CNN to perform image classification of images in the CIFAR10 dataset.
 
-### 🖼️ Image generation
+### 🖼️ Image Generation
 - [DiffusionModel](https://github.com/CogitoNTNU/DiffusionModel): Implement the architecture from the paper *Denoising Diffusion Probabilistic Models*. Car image generator.
 
 ### 👨🏻‍🏫 Supervised Learning
