@@ -10,7 +10,7 @@
 - **Email:** [marijan.soric@etu.ec-lyon.fr](mailto:marijan.soric@etu.ec-lyon.fr)
 - **LinkedIn:** [Marijan Soric](https://www.linkedin.com/in/marijan-soric)
 - **Website/Portfolio:** [Marijan's Website](https://soricm.github.io/portfolio/)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marijan SORIC) -->
+- 🤗 **Hugging Face:** [Marijan Soric](https://huggingface.co/marijanic)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -31,7 +31,7 @@ Here are some of the projects I'm currently working on or have contributed to:
   -  Implementing CNN to perform image classification of images in the CIFAR10 dataset.
 
 ### 🖼️ Image Generation
-- [DiffusionModel](https://github.com/CogitoNTNU/DiffusionModel): Implement the architecture from the paper *Denoising Diffusion Probabilistic Models*. Car image generator.
+- [DiffusionModel](https://github.com/CogitoNTNU/DiffusionModel): Implement the architecture from the paper *Denoising Diffusion Probabilistic Models*. Car image generator. [Demo App on 🤗 Hugging Face Space "Cogito Diffusion Model"](https://huggingface.co/spaces/marijanic/Cogito-Diffusion-Model)
 
 ### 👨🏻‍🏫 Supervised Learning
 - [RealEstate](https://github.com/soricm/RealEstate): Supervised learning on real estate prices with a dataset from Institut Louis Bachelier.
