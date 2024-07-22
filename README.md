@@ -41,6 +41,10 @@ Here are some of the projects I'm currently working on or have contributed to:
 ### 🧲 Unsupervised Learning
 - [PAi23](https://github.com/soricm/PAi23): FDIR. Unsupervised learning on flight detection: anomaly detection.
 
+### 🧠 Neuroscience, Neural Network 
+- [Hopfield-Network-Attractor](https://github.com/soricm/Hopfield-Network-Attractor): Discuss about discrete attractors in Hopfield Network. Essay from Neural Network Course at NTNU (Neuroscience faculty). 
+
+
 ### 🍿 Recommendation System
 - [CatMatch](https://github.com/soricm/CatMatch): Create a recommendation system *content based filtering* for the CatMatch app.
 
