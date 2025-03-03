@@ -2,9 +2,7 @@
 
 
 # 💫 About Me:
-- 🎓 I’m a student specialized in Machine Learning and Applied Mathematics.
-- 💡 I’m interested in research in AI (ML/DL) but also Data Science projects.
-
+- 🎓 I’m a PhD candidate in CS.
 
 ## 🌐 Socials:
 - **Email:** [marijan.soric@etu.ec-lyon.fr](mailto:marijan.soric@etu.ec-lyon.fr)
